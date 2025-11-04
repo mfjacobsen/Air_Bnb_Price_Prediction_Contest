@@ -13,4 +13,4 @@ This competition is part of the course curriculum at UCSD for the class DSC 148:
 2nd out of 109 student; RMSE - 82.40811. First place RMSE - 82.32490.
 
 ### Approach: 
-Use XGBoost with as much relevant data as possible. Use extensive hyperparameter tuning and regularization to avoid overfitting and improve generalization.
+XGBoost with as much relevant data as possible. Use extensive hyperparameter tuning and regularization to avoid overfitting and improve generalization.
